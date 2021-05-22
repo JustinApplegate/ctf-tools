@@ -9,3 +9,6 @@ This python script can be used to generate python commands used on the target de
 
 ## Steg_Brute
 This python script is used to brute force the steghide command. It can do brute force or use a dictionary file. 
+
+## Sublist3r and Subbrute
+Sublist3r is a Python script that collects a list of possible subdomains from multiple online sources, and natively includes the subbrute script, which can be used to brute force enumerate subdomains not listed anywhere. 
